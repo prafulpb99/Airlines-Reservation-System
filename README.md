@@ -3,8 +3,8 @@
 A java application using swing framework is being built for airline reservation system
 
 Three major entities:
-Admin
-Airliners
+Admin,
+Airliners,
 Users
 
 Features:
